@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-Gustavo-progM-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/guuu_jb">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@guuu_jb-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
     <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
