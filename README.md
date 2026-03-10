@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://github.com/Gustavo-progM">
-    <img src="https://img.shields.io/badge/GitHub-Gustavo-progM-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Gustavo-progM-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/guuu_jb">
     <img src="https://img.shields.io/badge/Instagram-@guuu_jb-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
