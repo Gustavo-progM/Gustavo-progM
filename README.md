@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/Gustavo-progM/Gustavo-progM/output/github-contribution-grid-snake.svg)
+
 ## Hi my name is Gustavo Jorge Batista
 
 - 🔭 I’m currently studied in Senai Jairo Candido
@@ -65,6 +67,6 @@
 </p> 
 -->
 
-![Snake animation](https://raw.githubusercontent.com/Gustavo-progM/Gustavo-progM/output/github-contribution-grid-snake.svg)
+
 
 
