@@ -65,6 +65,6 @@
 </p> 
 -->
 
-https://raw.githubusercontent.com/Gustavo-progM/Gustavo-progM/output/github-contribution-grid-snake.svg
+![Snake animation](https://raw.githubusercontent.com/Gustavo-progM/Gustavo-progM/output/github-contribution-grid-snake.svg)
 
 
